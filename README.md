@@ -11,7 +11,7 @@ This repository contains a minimal, semantic HTML-only CV page (`cv.html`). The 
 - Essential SEO metadata and Open Graph (OG) tags in the `<head>`  
 - A linked favicon for better presentation  
 
-This implementation aligns with the requirements of the “Single-Page CV” project from roadmap.sh. :contentReference[oaicite:1]{index=1}
+This implementation aligns with the requirements of the “Single-Page CV” project from roadmap.sh.: https://roadmap.sh/projects/single-page-cv
 
 ## 📄 Usage
 
