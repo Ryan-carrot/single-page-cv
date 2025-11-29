@@ -18,4 +18,20 @@ This implementation aligns with the requirements of the “Single-Page CV” pro
 1. Clone this repository  
    ```bash
    git clone https://github.com/Ryan-carrot/single-page-cv.git
+2. Open the cv.html (or index.html) file in your browser.
+3. Modify the content to include your own information such as name, title, skills, and work experience.
 
+## 🧰 Features
+
+- Pure HTML — no CSS or JavaScript
+- Semantic markup for clean structure
+- SEO meta tags included
+- Open Graph (OG) tags for better social sharing previews
+- Favicon included
+
+## ✔️ Future Improvements
+
+- Add CSS for layout and styling
+- Create a printable version
+- Add responsive design for mobile devices
+- Add downloadable PDF option
